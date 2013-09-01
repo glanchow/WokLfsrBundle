@@ -1,5 +1,5 @@
 {
-    "name": "glanchow/WokLfsrBundle",
+    "name": "glanchow/wok-lfsr-bundle",
     "description": "Linear Feedback Shift Register (LFSR) for Symfony2",
     "keywords": ["lfsr", "symfony"],
     "license": "MIT",

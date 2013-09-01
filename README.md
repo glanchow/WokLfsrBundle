@@ -18,7 +18,7 @@ Edit composer.json
 ```json
 "require": {
 ...
-    "glanchow/WokLfsrBundle": "*"
+    "glanchow/wok-lfsr-bundle": "*"
 ```
 
 Then update
