@@ -1,0 +1,11 @@
+parameters:
+
+services:
+    wok_lfsr:
+        class: Wok\LfsrBundle\Util\Lfsr
+        arguments:
+            - %wok_lfsr.feedback%
+            - %wok_lfsr.state%
+            - %wok_lfsr.base%
+            - %wok_lfsr.pad%
+        scope: prototype

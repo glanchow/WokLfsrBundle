@@ -1,0 +1,12 @@
+{
+    "name": "glanchow/WokLfsrBundle",
+    "description": "Linear Feedback Shift Register (LFSR) for Symfony2",
+    "keywords": ["lfsr", "symfony"],
+    "license": "MIT",
+    "require": {
+        "symfony/symfony": ">=2.1.0"
+    },
+    "autoload": {
+        "psr-0": { "Wok": "" }
+    }
+}
