@@ -8,5 +8,6 @@
     },
     "autoload": {
         "psr-0": { "Wok": "" }
-    }
+    },
+    "target-dir": "Wok/Lfsr"
 }
